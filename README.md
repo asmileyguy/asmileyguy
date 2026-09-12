@@ -1,3 +1,5 @@
+## 👋 Hi there!
+
 - 👤 I'm known as asmileyguy.
 - 👀 I'm interested in OSDEV, LLMs and Geometry Dash!
 - ✍️ I'm the creator of a project called [NullOS](https://github.com/nulloslabs/nullos).
