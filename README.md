@@ -1,6 +1,6 @@
 - 👋 Hi, I'm known as asmileyguy.
 - 👀 I'm interested in OSDEV, LLMs and Geometry Dash!
-- ✍️ I'm the creator of a project called [GlungOS](https://github.com/glungoslabs/glungos).
+- ✍️ I'm the creator of a project called [GlungOS](https://github.com/glunguslabs/glungos).
 - 🥹 Join the GlungOS [Discord](https://discord.gg/VcPJe4kAXr) server!
 
 <p>
